@@ -29,31 +29,31 @@ A clean and structured dataset ready for further analysis and visualization.
 ## Project Screenshot
 ![Cleaned Dataset Preview](# 🧹 Data Cleaning and Preparation using Python
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on cleaning and preparing the Global Superstore dataset using Python and Pandas. The goal is to transform raw data into a clean and structured format suitable for analysis and visualization.
 
-## 📂 Dataset
+## Dataset
 **Global Superstore Dataset**
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas  
 - Jupyter Notebook / Google Colab  
 
-## 🔍 Tasks Performed
+## Tasks Performed
 - Handled missing values  
 - Removed duplicate records  
 - Converted data types (Date format)  
 - Performed data cleaning and preprocessing  
 - Exported cleaned dataset  
 
-## 📊 Output
+## Output
 A clean and structured dataset ready for further analysis and visualization.
 
-## 🚀 Key Learnings
+## Key Learnings
 - Importance of data cleaning in analytics  
 - Handling real-world messy datasets  
 - Data preprocessing techniques using Pandas  
 
-## 📸 Project Screenshot
+## Project Screenshot
 ![Cleaned Dataset Preview](Cleaned_Dataset_Preview.png)
